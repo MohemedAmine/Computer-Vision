@@ -112,7 +112,7 @@ pip install opencv-python numpy matplotlib scikit-learn tensorflow
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/MohemedAmine/Computer-Vision.git
-   cd computer-vision-labs
+   cd Computer-Vision
    ```
 
 2. **Open each lab notebook or script** (e.g., `lab1_point_processing.ipynb`) in **Jupyter Notebook** or **VSCode**.
